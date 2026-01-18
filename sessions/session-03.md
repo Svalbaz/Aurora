@@ -15,10 +15,8 @@
 ---
 
 ## Quest / Objective
-- Escort a caravan to **Phandalin**, a couple of days southeast of **Neverwinter**
-- Met **Gundrin**, who claims he and his brothers have discovered something significant
-- Reward offered: **10 GP**
-- Delivery contact: **Barthan’s Provisions**
+- Murder **Dirty Dan The Doppelganger**
+- Reward offered: **Unknown**
 
 ---
 
