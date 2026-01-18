@@ -1,8 +1,8 @@
 # Aurora – Session 02
 
-**Date:** Sunday 4th January 2026  
+**Date:** Sunday 28th December 2025
 **Location:** 
-**Party Level:** 3
+**Party Level:** 2
 
 ---
 
