@@ -44,7 +44,7 @@ The party were informed by a Guardsman that they need to kill Dirty Dan The Dopp
 ---
 
 ## Loot & Rewards
-- **XP:** 25
+- **XP:** 125
 - **Gold:** ?
 - **Items:** ?
 
