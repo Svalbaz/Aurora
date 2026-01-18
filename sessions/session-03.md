@@ -62,7 +62,8 @@ The party were informed by a Guardsman that they need to kill Dirty Dan The Dopp
 ---
 
 ## Notable NPCs
-- **?** — ?
+- **Pim** — Gnome Cleric
+- **The Twink** — Skeletal version
 
 ---
 
