@@ -38,7 +38,7 @@ The party investigated the Town, bought some goods and got into a confrontation 
   - The party fought the congregation who all turned out to be Doppelgangers
   - After the fight, the Church became their base of operations
 
- ### The Church
+ ### Pets!
  - The party all got pets!!
     
 ---
