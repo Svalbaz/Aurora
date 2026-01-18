@@ -10,7 +10,7 @@
 - Ed Taylor — Halfling Rogue
 - Bill — Human Bard
 - Nesu Akhekh — Human Paladin
-- Silkam Stormscale — Dragonborn Bloodhunter
+- The Irish Wannabe — Dragonborn Bloodhunter
 
 ---
 
