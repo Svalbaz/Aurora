@@ -46,6 +46,8 @@ The party were informed by a Guardsman that they need to kill Dirty Dan The Dopp
   - Ed Taylor is given a riddle *"What is something that fades out over time but some of it's residue will always remain"*, Ed Taylor answers "*The Ocean*" and **fails**
 - The party enter the Shrine
     - Nesu inspected the pools within the Shrine, it was clean water which seems wrong
+    - Bill inspected some pictures and noticed women had been removed
+    - Nesu inspected other pictures and they were all painting images of death, there was black smudges and smoke on the paintings and floor as if they were corrupted
       
 ---
 
