@@ -44,7 +44,8 @@ The party were informed by a Guardsman that they need to kill Dirty Dan The Dopp
   - Nesu is given a riddle *"I'm rarely touched but often held. If you have wit, you'll use me well"*, Nesu answers "*Your Tongue*" and **passes**
   - The Irish Wannabe is given a riddle *"what rooms can't you enter?"*, The Irish Wannabe answers "*A locked room*" and **fails**
   - Ed Taylor is given a riddle *"What is something that fades out over time but some of it's residue will always remain"*, Ed Taylor answers "*The Ocean*" and **fails**
-
+- The party enter the Shrine
+  
 ---
 
 ## Exploration & Discoveries
