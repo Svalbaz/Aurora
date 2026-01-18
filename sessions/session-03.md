@@ -15,67 +15,55 @@
 ---
 
 ## Quest / Objective
-- Murder **Dirty Dan The Doppelganger**
-- Reward offered: **Unknown**
+- Investigate the Town
 
 ---
 
 ## Session Summary
-The party were informed by a Guardsman that they need to kill Dirty Dan The Doppelganger to avoid being arrested.
+The party investigated the Town, bought some goods and got into a confrontation with some Chefs before fighting a Priest and his congregation in the Church
 
 ---
 
 ## Encounters
 
-### Goblin Ambush
-- As soon as the party left town were they ambushed by a number of Goblins and Kobolds
-  - Ed Taylor stealthed and jumped up behind the Goblin Archers
-  - Nesu obliterated 4 Kobold Warriors with one casting of Burning Hands
-  - Ed Taylor summoned **Axe Beak**, a Giant Dodo
-  - The Irish Wannabe decapitated a Goblin Archer using his Crossbow
+### Chef Fight
+- The Irish Wannabe followed a Chef to his house, then smashed the window down and murdered him
+  - He then proceeded to go nextdoor to try and fight his brother
 
-### Pim
-- The party met **Pim** a Gnome Cleric and her Pet **Boris the Badger**
-  - She is on her way to the Shrine of **Kurtulmak**
+### Big Daddy & AIDS
+- The Irish Wannabe paid a hooker and got AIDS
 
- ### The Shrine of Kurtulmak
-- The party approach the Shrine and it lights up in a similar green light
-  - Three Specters appear
-  - Nesu is given a riddle *"I'm rarely touched but often held. If you have wit, you'll use me well"*, Nesu answers "*Your Tongue*" and **passes**
-  - The Irish Wannabe is given a riddle *"what rooms can't you enter?"*, The Irish Wannabe answers "*A locked room*" and **fails**
-  - Ed Taylor is given a riddle *"What is something that fades out over time but some of it's residue will always remain"*, Ed Taylor answers "*The Ocean*" and **fails**
-- The party enter the Shrine
-    - Nesu inspected the pools within the Shrine, it was clean water which seems wrong
-    - Bill inspected some pictures and noticed women had been removed
-    - Nesu inspected other pictures and they were all depicting images of death, there was black smudges and smoke on the paintings and floor as if they were corrupted
-    - Bill noticed these are thousands of years old
-    - Ed Taylor steps near a Sarcophagus and activates a **Pressure Plate**
-    - A Skeletal version of **The Twink** exits the Sarcophagus
-    - The Skeletal version of **The Twink** is called *Evanne Quer* which is an anagram of *Raven Queen*
-    - Dirty Dan the Doppleganger runs up and shouts that he must protect his queen
-      
+ ### The Church
+ - Nesu found his way to church, only to find out the Priest and his congregation were servants of the *Raven Queen*
+  - The party fought the congregation who all turned out to be Doppelgangers
+  - After the fight, the Church became their base of operations
+
+ ### The Church
+ - The party all got pets!!
+    
 ---
 
 ## Exploration & Discoveries
-- The Shrine of Kurtulmak
+- The Town
 
 ---
 
 ## Notable NPCs
-- **Pim** — Gnome Cleric
-- **The Twink** — Skeletal version
+- **Big Daddy** — Gigantic Pimp
+- **Dirty Dan the Doppelganger** — Doppelganger
 
 ---
 
 ## Loot & Rewards
-- **XP:** 275
+- **XP:** ?
 - **Gold:** ?
-- **Items:** ?
+- **Items:** Pets! Various treasures and items
 
 ---
 
 ## Character Moments
-- Bill tried to proposition Pim by using *Message*
+- The Irish Wannabe got AIDS
+- The party all got pets
 
 ---
 
