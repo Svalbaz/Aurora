@@ -30,56 +30,35 @@ The party were informed by a Guardsman that they need to kill Dirty Dan The Dopp
 ### Goblin Ambush
 - Discovered **Sildar and Gundrin’s horses dead** on the Tivor Trail  
   - Clear evidence of an ambush
-- Engaged by goblins
-- Everyone managed to kill a goblin… except one party member 😅
-
-### Goblin Camp
-- Located a goblin camp hidden off a northwest side trail discovered by *The Boy*
-- Successfully sprang a trap on the camp
-- **Rurik Oathless** executed a slick double attack
-- Rurik later lost a bet with *The Boy* involving cooked meat 🍖
-
-### Cave Entrance & Sentries
-- Entered a cave system connected to the goblin camp
-- Defeated wolves chained to a stalactite  
-  - *The Boy* took additional damage
-- *The Boy* and **Valen Wildheart** coordinated a joint attack to eliminate a goblin sentry
 
 ---
 
 ## Exploration & Discoveries
-- Identified a hidden goblin trail leading northwest from the main road
-- Discovered a cave complex used as a goblin stronghold
+- ?
 
 ---
 
 ## Notable NPCs
-- **Gundrin** — Dwarf merchant; claims to have found something important
-- **Sildar** — Associate of Gundrin; fate currently unknown
+- **?** — ?
 
 ---
 
 ## Loot & Rewards
-- **XP:** 75 XP awarded
-- **Gold:** —
-- **Items:** —
+- **XP:** ?
+- **Gold:** ?
+- **Items:** ?
 
 ---
 
 ## Character Moments
-- Rurik’s confident double attack followed immediately by losing a food-related bet
-- Rurik’s long rant about women and how Spider or Snake symbols probably means theres a horrible woman leading some horrible cult
-- Continued tradition of *The Boy* taking more damage than expected
+- ?
 
 ---
 
 ## Loose Threads
-- What happened to **Sildar** and **Gundrin**
-- What lies deeper within the goblin cave
-- Who or what the goblins are working for
+- ?
 
 ---
 
 ## Notes / Reminders
-- Cave complex not fully explored
-- Prisoners and leaders may still be present
+- ?
