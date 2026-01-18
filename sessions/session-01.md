@@ -1,6 +1,6 @@
 # Aurora – Session 01
 
-**Date:** Sunday 28th December 2025  
+**Date:** Sunday 7th December 2025  
 **Location:** 
 **Party Level:** 1
 
