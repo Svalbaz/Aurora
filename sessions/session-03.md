@@ -28,8 +28,8 @@ The party were informed by a Guardsman that they need to kill Dirty Dan The Dopp
 ## Encounters
 
 ### Goblin Ambush
-- Discovered **Sildar and Gundrin’s horses dead** on the Tivor Trail  
-  - Clear evidence of an ambush
+- As soon as the party left town were they ambushed by a number of Goblins and Kobolds
+  - ?
 
 ---
 
