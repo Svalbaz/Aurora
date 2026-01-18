@@ -2,7 +2,7 @@
 
 **Date:** Sunday 11th January 2026  
 **Location:** 
-**Party Level:** 4
+**Party Level:** 3
 
 ---
 
