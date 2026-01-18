@@ -41,7 +41,9 @@ The party were informed by a Guardsman that they need to kill Dirty Dan The Dopp
  ### The Shrine of Kurtelmack
 - The party approach the Shrine and it lights up in a similar green light
   - Three Specters appear
- 
+  - Nesu is given a riddle "I'm rarely touched but often held. If you have wit, you'll use me well", Nesu answers "Your Tongue" and **passess*
+  - The Irish Wannabe is given a riddle "what rooms can't you enter?", The Irish Wannabe answers "A locked room" and **fails**
+
 ---
 
 ## Exploration & Discoveries
