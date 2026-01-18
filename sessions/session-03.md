@@ -1,6 +1,6 @@
 # Aurora – Session 03
 
-**Date:** Sunday 18th January 2026  
+**Date:** Sunday 11th January 2026  
 **Location:** 
 **Party Level:** 4
 
