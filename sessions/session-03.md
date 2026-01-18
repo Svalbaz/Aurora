@@ -33,8 +33,11 @@ The party were informed by a Guardsman that they need to kill Dirty Dan The Dopp
   - Nesu obliterated 4 Kobold Warriors with one casting of Burning Hands
   - Ed Taylor summoned **Axe Beak**, a Giant Dodo
   - The Irish Wannabe decapitated a Goblin Archer using his Crossbow
-  - Dirty Dan ranaway
 
+### Pim
+- The party met **Pim** a Gnome Cleric and her Pet **Boris the Badger**
+  - ?
+ 
 ---
 
 ## Exploration & Discoveries
