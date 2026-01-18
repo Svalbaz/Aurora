@@ -36,7 +36,7 @@ The party were informed by a Guardsman that they need to kill Dirty Dan The Dopp
 
 ### Pim
 - The party met **Pim** a Gnome Cleric and her Pet **Boris the Badger**
-  - ?
+  - She is on her way to the Shrine of **Kurtelmack**
  
 ---
 
