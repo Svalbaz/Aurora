@@ -1,4 +1,4 @@
-# Greyhawk – Session 01
+# Aurora – Session 01
 
 **Date:** Sunday 28th December 2025  
 **Location:** 
