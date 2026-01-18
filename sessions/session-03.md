@@ -1,4 +1,4 @@
-# Aurora – Session 01
+# Aurora – Session 03
 
 **Date:** Sunday 18th January 2026  
 **Location:** 
@@ -21,7 +21,7 @@
 ---
 
 ## Session Summary
-The party travelled east along the Tivor Trail toward Phandalin. Along the way, signs of trouble quickly emerged, leading to goblin ambushes and the discovery of a hostile camp hidden off the main road.
+The party were informed by a Guardsman that they need to kill Dirty Dan The Doppelganger to avoid being arrested.
 
 ---
 
