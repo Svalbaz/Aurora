@@ -45,7 +45,8 @@ The party were informed by a Guardsman that they need to kill Dirty Dan The Dopp
   - The Irish Wannabe is given a riddle *"what rooms can't you enter?"*, The Irish Wannabe answers "*A locked room*" and **fails**
   - Ed Taylor is given a riddle *"What is something that fades out over time but some of it's residue will always remain"*, Ed Taylor answers "*The Ocean*" and **fails**
 - The party enter the Shrine
-  
+    - Nesu inspected the pools within the Shrine, it was clean water
+      
 ---
 
 ## Exploration & Discoveries
