@@ -51,7 +51,7 @@ The party were informed by a Guardsman that they need to kill Dirty Dan The Dopp
     - Bill noticed these are thousands of years old
     - Ed Taylor steps near a Sarcophagus and activates a **Pressure Plate**
     - A Skeletal version of **The Twink** exits the Sarcophagus
-    - Evanne Quer
+    - Evanne Quer / Raven Queen
       
 ---
 
