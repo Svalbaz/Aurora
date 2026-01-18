@@ -32,6 +32,7 @@ The party were informed by a Guardsman that they need to kill Dirty Dan The Dopp
   - Ed Taylor stealthed and jumped up behind the Goblin Archers
   - Nesu obliterated 4 Kobold Warriors
   - Ed Taylor summoned **Axe Beak**, a Giant Dodo
+  - The Irish Wannabe decapitated a Goblin Archer using his Crossbow
 
 ---
 
