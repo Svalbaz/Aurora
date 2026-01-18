@@ -49,6 +49,7 @@ The party were informed by a Guardsman that they need to kill Dirty Dan The Dopp
     - Bill inspected some pictures and noticed women had been removed
     - Nesu inspected other pictures and they were all depicting images of death, there was black smudges and smoke on the paintings and floor as if they were corrupted
     - Bill noticed these are thousands of years old
+    - Ed Taylor steps near a Sarcophagus and activates a **Pressure Plate**
       
 ---
 
