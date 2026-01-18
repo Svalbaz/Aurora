@@ -1,7 +1,7 @@
 # Greyhawk – Session 01
 
-**Date:** Wednesday 14th January 2026  
-**Location:** Tivor Trail → Goblin Cave  
+**Date:** Sunday 28th December 2025  
+**Location:** 
 **Party Level:** 1
 
 ---
