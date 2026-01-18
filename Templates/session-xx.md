@@ -1,4 +1,4 @@
-# Greyhawk – Session XX
+# Aurora – Session XX
 
 **Date:**  
 **Location:**  
@@ -7,11 +7,10 @@
 ---
 
 ## Party Present
-- Cal Tir — Elf Sorcerer
-- Confessor Baras — Human Cleric
-- Rurik Oathless — Dwarf Fighter
-- Unknown — Tiefling Barbarian
-- Valen Wildhear — Elf Fighter
+- Ed Taylor — Halfling Rogue
+- Bill — Human Bard
+- Nesu Akhekh — Human Paladin
+- Silkam Stormscale — Dragonborn Bloodhunter
 
 ---
 
