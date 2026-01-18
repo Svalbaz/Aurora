@@ -1,4 +1,4 @@
-# Greyhawk – Session 01
+# Aurora – Session 01
 
 **Date:** Sunday 4th January 2026  
 **Location:** 
