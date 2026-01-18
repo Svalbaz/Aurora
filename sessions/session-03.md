@@ -57,7 +57,7 @@ The party were informed by a Guardsman that they need to kill Dirty Dan The Dopp
 ---
 
 ## Exploration & Discoveries
-- ?
+- The Shrine of Kurtelmack
 
 ---
 
@@ -68,7 +68,7 @@ The party were informed by a Guardsman that they need to kill Dirty Dan The Dopp
 ---
 
 ## Loot & Rewards
-- **XP:** 150
+- **XP:** 275
 - **Gold:** ?
 - **Items:** ?
 
