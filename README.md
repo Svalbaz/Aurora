@@ -8,6 +8,7 @@
 
 ## Session Logs
 
-- [Session 01 – Sunday 28th December 2025](sessions/session-01.md)
-- [Session 02 – Sunday 4th January 2026](sessions/session-02.md)
-- [Session 03 – Wednesday 14th January 2026](sessions/session-03.md)
+- [Session 01 – Sunday 7th December 2025](sessions/session-01.md)
+- [Session 02 – Sunday 28th December 2025](sessions/session-02.md)
+- [Session 03 – Sunday 4th January 2026](sessions/session-03.md)
+- [Session 03 – Sunday 18th January 2026](sessions/session-04.md)
