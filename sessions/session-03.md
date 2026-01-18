@@ -36,9 +36,9 @@ The party were informed by a Guardsman that they need to kill Dirty Dan The Dopp
 
 ### Pim
 - The party met **Pim** a Gnome Cleric and her Pet **Boris the Badger**
-  - She is on her way to the Shrine of **Kurtelmack**
+  - She is on her way to the Shrine of **Kurtulmak**
 
- ### The Shrine of Kurtelmack
+ ### The Shrine of Kurtulmak
 - The party approach the Shrine and it lights up in a similar green light
   - Three Specters appear
   - Nesu is given a riddle *"I'm rarely touched but often held. If you have wit, you'll use me well"*, Nesu answers "*Your Tongue*" and **passes**
@@ -57,7 +57,7 @@ The party were informed by a Guardsman that they need to kill Dirty Dan The Dopp
 ---
 
 ## Exploration & Discoveries
-- The Shrine of Kurtelmack
+- The Shrine of Kurtulmak
 
 ---
 
