@@ -15,25 +15,25 @@
 ---
 
 ## Quest / Objective
-- Murder **?**
-- Reward offered: **?**
+- Get out of **The Graveyard**
 
 ---
 
 ## Session Summary
-?
+The party tracked across an otherworldly graveyard and fought many zombies and other undead
 
 ---
 
 ## Encounters
 
-### ?
-- ?
+### Undead Fight
+- Fought a large number of zombies and other undead
+  - The Irish Wannabe got knocked unconscious
 
 ---
 
 ## Exploration & Discoveries
-- ?
+- Various treasure items and Gold
 
 ---
 
