@@ -6,6 +6,20 @@
 | **Halfling**<br>Rogue | **Goliath**<br>Bard | **Human**<br>Paladin | **Dragonborn**<br>Bloodhunter |
 | Shea | Harry | Phill | Ed |
 
+---
+
+# Neverwinter
+
+A D&D 5e campaign set in Aurora.
+
+⚠️ Player-facing notes only.
+DM secrets are stored separately.
+
+## Current Arc
+Exploring the myseries of **The Twink** and usually getting into fights with innocent civilians.
+
+---
+
 ## Session Logs
 
 - [Session 01 – Sunday 7th December 2025](sessions/session-01.md)
