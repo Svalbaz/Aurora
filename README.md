@@ -1,5 +1,3 @@
-## Party Roster
-
 | Ed Taylor 🗡️ | Bill 🎶 | Nesu Akhekh 🛡️ | The Irish Wannabe 🩸 |
 |-----------|------------------|------------------|-----------|
 | <img src="images/party/EdTaylor.jpeg" alt="Ed Taylor" width="180" height="270"> | <img src="images/party/Bill.jpeg" alt="Bill" width="180" height="270"> | <img src="images/party/NesuAkhekh.jpeg" alt="Nesu Akhekh" width="180" height="270"> | <img src="images/party/TheIrishWannabe.png" alt="The Irish Wannabe" width="180" height="270"> |
