@@ -1,8 +1,8 @@
 # Aurora – Session 05
 
-**Date:**  15th February 2026 
-**Location:**  The Shrine 
-**Party Level:**  4 
+**Date:** Sunday 15th February 2026  
+**Location:** The Shrine
+**Party Level:** 4
 
 ---
 
