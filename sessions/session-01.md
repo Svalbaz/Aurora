@@ -14,11 +14,6 @@
 
 ---
 
-## Quest / Objective
-- None
-
----
-
 ## Session Summary
 The party met in a Tavern and fought a Vampire and a Werewolf. They were then transported to another realm where they met **The Twink**
 
@@ -32,20 +27,8 @@ The party met in a Tavern and fought a Vampire and a Werewolf. They were then tr
 
 ---
 
-## Exploration & Discoveries
-- None
-
----
-
 ## Notable NPCs
 - **The Twink** — Enigmatic Girl
-
----
-
-## Loot & Rewards
-- **XP:** ?
-- **Gold:** —
-- **Items:** —
 
 ---
 
@@ -56,8 +39,3 @@ The party met in a Tavern and fought a Vampire and a Werewolf. They were then tr
 
 ## Loose Threads
 - Who is The Twink?
-
----
-
-## Notes / Reminders
-- ?
