@@ -64,13 +64,3 @@ The party investigated the Town, bought some goods and got into a confrontation 
 ## Character Moments
 - The Irish Wannabe got AIDS
 - The party all got pets
-
----
-
-## Loose Threads
-- ?
-
----
-
-## Notes / Reminders
-- ?
