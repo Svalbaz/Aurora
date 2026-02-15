@@ -76,13 +76,3 @@ The party were informed by a Guardsman that they need to kill Dirty Dan The Dopp
 
 ## Character Moments
 - Bill tried to proposition Pim by using *Message*
-
----
-
-## Loose Threads
-- ?
-
----
-
-## Notes / Reminders
-- ?
